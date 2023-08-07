@@ -2,3 +2,4 @@ the first content was added
 the second time change the content
 update git 080715gio
 thay doi noi dung tai remote
+noi dung lai duoc thay doi tai local
